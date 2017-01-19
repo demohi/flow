@@ -28,7 +28,7 @@ next: five-simple-examples.html
 
   And now we can start writing some code!
 
-  **index.js**
+  **hello.js**
 */
 
 // @flow
